@@ -1,0 +1,14 @@
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\bin\Debug\net8.0\Calculadora_Estadisticas.exe
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\bin\Debug\net8.0\Calculadora_Estadisticas.deps.json
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\bin\Debug\net8.0\Calculadora_Estadisticas.runtimeconfig.json
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\bin\Debug\net8.0\Calculadora_Estadisticas.dll
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\bin\Debug\net8.0\Calculadora_Estadisticas.pdb
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\obj\Debug\net8.0\Calculadora_Estadisticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\obj\Debug\net8.0\Calculadora_Estadisticas.AssemblyInfoInputs.cache
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\obj\Debug\net8.0\Calculadora_Estadisticas.AssemblyInfo.cs
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\obj\Debug\net8.0\Calculadora_Estadisticas.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\obj\Debug\net8.0\Calculadora_Estadisticas.dll
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\obj\Debug\net8.0\refint\Calculadora_Estadisticas.dll
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\obj\Debug\net8.0\Calculadora_Estadisticas.pdb
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\obj\Debug\net8.0\Calculadora_Estadisticas.genruntimeconfig.cache
+C:\Users\Maria\OneDrive\Documentos\Maria_LugoRefuerzoC#Nivel2\Calculadora_Estadisticas\obj\Debug\net8.0\ref\Calculadora_Estadisticas.dll
